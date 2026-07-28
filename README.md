@@ -1,5 +1,5 @@
 # The Prancing Pony Guides
-**❝The first key to writing is to write.❞ ‒ in *Finding Forrester* by Gus Van Sant.**
+**❝The first key to writing is to write.❞ - in *Finding Forrester* by Gus Van Sant.**
 
 > A list of articles published on various coding platform.
 
