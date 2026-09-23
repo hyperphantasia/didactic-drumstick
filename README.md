@@ -15,6 +15,9 @@
 
 ![Banner Image](</img/freecodecamp.jpg> "freeCodeCamp logo.")
 
+ - A [feedback](https://www.freecodecamp.org/news/how-to-build-a-reading-focused-blog-with-python-markdown-and-github-pages-for-free/) from porting a [Tufte-inspired](https://github.com/edwardtufte/tufte-css) blog theme in Python while preserving its design (and learning how static-site generators work).
+   - Related project: [tufte-python](https://github.com/hyperphantasia/tufte-python)
+
 - Tracking flood risk starts with clean and structured data. In this [handbook](https://www.freecodecamp.org/news/the-etl-pipeline-handbook-how-to-build-a-production-grade-pipeline-in-python/), you’ll build a Python ETL pipeline that pulls daily water-level readings from an API and transform, clean and publish them as an updated [public dataset](https://www.kaggle.com/datasets/grimespoint/paris-flood-dataset).
   - Related project: [fluctuat_nec_mergitur](https://github.com/hyperphantasia/paris-flood-dataset)
 
